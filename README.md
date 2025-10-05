@@ -53,12 +53,6 @@ Developed an **interactive Business Intelligence (BI) dashboard** to analyze and
 
 ---
 
-## ⚡ Short LinkedIn/CV Description
-
-Developed an **interactive BI dashboard** to analyze and forecast Apple Inc.’s financial performance as part of my Bachelor’s in Informatics Engineering & Management Information Systems at Universidade Autónoma de Lisboa. Leveraged **Power BI** for dynamic visualizations and **Azure AutoML** for time-series forecasting of key financial KPIs (Gross Margin Percent, Estimated Volume). Achieved **high forecast accuracy** (R² = 0.992, sMAPE = 2.13%) and integrated predictive outputs into interactive dashboards, enabling actionable insights and real-time monitoring of financial trends. Skills applied include **Python, Power Query, DAX, predictive modeling, and data visualization**.  
-
----
-
 ## ⚠️ Disclaimer
 
 This project is **strictly academic** and not affiliated with Apple Inc. All data used is public and for educational purposes.
