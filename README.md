@@ -1,60 +1,64 @@
 # 📊 Apple Inc. Financial Forecasting Dashboard (Power BI + Azure ML)
 
-This academic project presents the development of a predictive Business Intelligence (BI) dashboard designed to analyze and forecast the financial performance of **Apple Inc.** using **Microsoft Power BI** and **Azure AutoML**.
-
-Developed as part of the final lab project for the Bachelor's degree in **Informatics Engineering** and **Management Information Systems** at the **Universidade Autónoma de Lisboa**.
-
----
-
-## 🚀 Project Overview
-
-The project combines:
-
-- **Power BI** for visual analysis and KPI dashboards
-- **Azure Machine Learning** for automated time-series forecasting (AutoML)
-- Integration of predictive outputs with interactive BI dashboards
-- A focus on two key financial indicators:
-  - **Gross Margin Percent**
-  - **Estimated Volume in Millions**
-
-Forecasts are based on real Apple financial data (2006–2025) sourced from **Yahoo Finance** and **SEC filings**.
+**Role:** Lead Academic Developer | **Skills:** Power BI, Azure ML, Python, Data Analytics, Time-Series Forecasting  
+**Institution:** Universidade Autónoma de Lisboa | **Degree:** BSc in Informatics Engineering & Management Information Systems  
 
 ---
 
-## 📁 Files Included
+## 🔹 Project Overview
 
-- `dashboard.pbix` – The interactive Power BI visualization
-- `report.pdf` – Academic report detailing:
-  - Methodology
-  - Model evaluation
-  - Visuals and KPIs
-  - Insights and conclusions
-- `forecast_script.ipynb` – Jupyter Notebook containing Python code for time series forecasting, including data preprocessing, model training (e.g., Prophet), and visualization of trends and predictions.
+Developed an **interactive Business Intelligence (BI) dashboard** to analyze and forecast Apple Inc.’s financial performance using **Power BI** and **Azure AutoML**. The project integrates predictive analytics with visual dashboards, enabling actionable insights for financial decision-making.
 
----
-
-## 📌 Key Features
-
-- 🔗 **Integration** between Azure ML and Power BI
-- 📈 Interactive time series forecasting with visual confidence intervals
-- 🔍 KPI analysis and comparison of actual vs. predicted values
-- 🤖 AutoML-driven model selection (ARIMA, Prophet, LightGBM, etc.)
-- ✅ R²: 0.992 | sMAPE: 2.13% | MAE: 1543.24
+**Key Achievements:**  
+- Achieved **high forecast accuracy** (R² = 0.992, sMAPE = 2.13%)  
+- Integrated Azure ML predictions directly into Power BI dashboards  
+- Delivered dynamic KPIs and interactive visualizations for strategic analysis  
 
 ---
 
-## 🧰 Technologies Used
+## 🔹 Technical Skills Demonstrated
 
-- [Power BI](https://powerbi.microsoft.com/)
-- [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/)
-- CSV datasets from:
-  - [Yahoo Finance](https://finance.yahoo.com/)
-  - [SEC EDGAR](https://www.sec.gov/edgar.shtml)
+- **Data Analysis & Preprocessing:** Python, Jupyter Notebook, Power Query  
+- **Predictive Modeling:** Azure AutoML, Prophet, ARIMA, LightGBM  
+- **BI & Visualization:** Power BI dashboards, DAX, interactive KPIs  
+- **Time-Series Forecasting:** Revenue, Gross Margin Percent, Estimated Volume  
+- **Project Workflow:** End-to-end from data ingestion → modeling → dashboard visualization  
+
+---
+
+## 🔹 Responsibilities & Contributions
+
+- Collected and cleaned **financial datasets (2006–2025)** from Yahoo Finance and SEC filings  
+- Conducted **Exploratory Data Analysis (EDA)** to identify trends, seasonality, and outliers  
+- Developed and evaluated **forecasting models** for multiple financial KPIs  
+- Designed **interactive Power BI dashboards** for real-time monitoring and scenario analysis  
+- Automated data pipeline between Azure ML predictions and Power BI dashboards  
+
+---
+
+## 🔹 Impact & Results
+
+- Provided **actionable insights** from historical trends and predictive forecasts  
+- Enabled **comparison of actual vs. predicted financial performance**, supporting strategic decision-making  
+- Demonstrated **strong analytical and technical skills** in BI, forecasting, and data integration  
+- Enhanced understanding of **financial KPIs** and predictive analytics applications in real-world scenarios  
+
+---
+
+## 🔹 Project Artifacts
+
+- `dashboard.pbix` – Interactive BI Dashboard  
+- `forecast_script.ipynb` – Python Notebook for Forecasting  
+- `report.pdf` – Academic report detailing methodology, model evaluation, KPIs, and insights  
+
+---
+
+## ⚡ Short LinkedIn/CV Description
+
+Developed an **interactive BI dashboard** to analyze and forecast Apple Inc.’s financial performance as part of my Bachelor’s in Informatics Engineering & Management Information Systems at Universidade Autónoma de Lisboa. Leveraged **Power BI** for dynamic visualizations and **Azure AutoML** for time-series forecasting of key financial KPIs (Gross Margin Percent, Estimated Volume). Achieved **high forecast accuracy** (R² = 0.992, sMAPE = 2.13%) and integrated predictive outputs into interactive dashboards, enabling actionable insights and real-time monitoring of financial trends. Skills applied include **Python, Power Query, DAX, predictive modeling, and data visualization**.  
 
 ---
 
 ## ⚠️ Disclaimer
 
-This project is strictly academic and not affiliated with Apple Inc. All data used is public and used for educational purposes only.
-
----
+This project is **strictly academic** and not affiliated with Apple Inc. All data used is public and for educational purposes.
