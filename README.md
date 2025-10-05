@@ -1,7 +1,6 @@
 # 📊 Apple Inc. Financial Forecasting Dashboard (Power BI + Azure ML)
 
-**Role:** Lead Academic Developer | **Skills:** Power BI, Azure ML, Python, Data Analytics, Time-Series Forecasting  
-**Institution:** Universidade Autónoma de Lisboa | **Degree:** BSc in Informatics Engineering & Management Information Systems  
+**Role:** Lead Academic Developer | **Skills:** Power BI, Azure ML, Python, Data Analytics, Time-Series Forecasting
 
 ---
 
