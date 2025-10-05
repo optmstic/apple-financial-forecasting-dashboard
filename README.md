@@ -45,7 +45,7 @@ Developed an **interactive Business Intelligence (BI) dashboard** to analyze and
 
 ---
 
-## 🔹 Project Artifacts
+## 🔹 Project Assets
 
 - `dashboard.pbix` – Interactive BI Dashboard  
 - `forecast_script.ipynb` – Python Notebook for Forecasting  
