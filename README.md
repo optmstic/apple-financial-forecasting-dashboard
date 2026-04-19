@@ -8,7 +8,7 @@
 Developed an **interactive Business Intelligence (BI) dashboard** to analyze and forecast Apple Inc.’s financial performance using **Power BI** and **Azure AutoML**. The project integrates predictive analytics with visual dashboards, enabling actionable insights for financial decision-making.
 
 **Key Achievements:**  
-- Achieved **high forecast accuracy** (R² = 0.992, sMAPE = 2.13%)  
+- Achieved high forecast accuracy
 - Integrated Azure ML predictions directly into Power BI dashboards  
 - Delivered dynamic KPIs and interactive visualizations for strategic analysis  
 
