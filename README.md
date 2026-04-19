@@ -1,10 +1,10 @@
-# 📊 Apple Inc. Financial Forecasting Dashboard (Power BI + Azure ML)
+# Apple Inc. Financial Forecasting Dashboard (Power BI + Azure ML)
 
 **Role:** Lead Academic Developer | **Skills:** Power BI, Azure ML, Python, Data Analytics, Time-Series Forecasting
 
 ---
 
-## 🔹 Project Overview
+## Project Overview
 
 Developed an **interactive Business Intelligence (BI) dashboard** to analyze and forecast Apple Inc.’s financial performance using **Power BI** and **Azure AutoML**. The project integrates predictive analytics with visual dashboards, enabling actionable insights for financial decision-making.
 
@@ -15,7 +15,7 @@ Developed an **interactive Business Intelligence (BI) dashboard** to analyze and
 
 ---
 
-## 🔹 Technical Skills Demonstrated
+## Technical Skills Demonstrated
 
 - **Data Analysis & Preprocessing:** Python, Jupyter Notebook, Power Query  
 - **Predictive Modeling:** Azure AutoML, Prophet, ARIMA, LightGBM  
@@ -25,7 +25,7 @@ Developed an **interactive Business Intelligence (BI) dashboard** to analyze and
 
 ---
 
-## 🔹 Responsibilities & Contributions
+## Responsibilities & Contributions
 
 - Collected and cleaned **financial datasets (2006–2025)** from Yahoo Finance and SEC filings  
 - Conducted **Exploratory Data Analysis (EDA)** to identify trends, seasonality, and outliers  
@@ -35,7 +35,7 @@ Developed an **interactive Business Intelligence (BI) dashboard** to analyze and
 
 ---
 
-## 🔹 Impact & Results
+## Impact & Results
 
 - Provided **actionable insights** from historical trends and predictive forecasts  
 - Enabled **comparison of actual vs. predicted financial performance**, supporting strategic decision-making  
@@ -44,7 +44,7 @@ Developed an **interactive Business Intelligence (BI) dashboard** to analyze and
 
 ---
 
-## 🔹 Project Assets
+## Project Assets
 
 - `dashboard.pbix` – Interactive BI Dashboard  
 - `forecast_script.ipynb` – Python Notebook for Forecasting  
@@ -52,6 +52,6 @@ Developed an **interactive Business Intelligence (BI) dashboard** to analyze and
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is **strictly academic** and not affiliated with Apple Inc. All data used is public and for educational purposes.
