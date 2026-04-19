@@ -1,5 +1,4 @@
-# Apple Inc. Financial Forecasting Dashboard (Power BI + Azure ML)
-
+# Apple Inc. Financial Forecasting Dashboard
 **Role:** Lead Academic Developer | **Skills:** Power BI, Azure ML, Python, Data Analytics, Time-Series Forecasting
 
 ---
