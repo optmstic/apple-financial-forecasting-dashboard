@@ -1,56 +1,88 @@
-# Apple Inc. Financial Forecasting Dashboard
-**Skills:** Power BI, Azure ML, Python, Data Analytics, Time-Series Forecasting
+# Apple Financial Forecasting Dashboard
+
+Academic project for **Business Intelligence**.
+
+This project combines financial analysis, time-series forecasting, and dashboard design to explore Apple Inc.'s historical financial performance and forecast selected business metrics using **Power BI** and **Azure AutoML**.
 
 ---
 
-## Project Overview
+## Objective
 
-Developed an **interactive Business Intelligence (BI) dashboard** to analyze and forecast Apple Inc.’s financial performance using **Power BI** and **Azure AutoML**. The project integrates predictive analytics with visual dashboards, enabling actionable insights for financial decision-making.
+Build an interactive BI dashboard that allows users to:
 
-**Key Achievements:**  
-- Achieved high forecast accuracy
-- Integrated Azure ML predictions directly into Power BI dashboards  
-- Delivered dynamic KPIs and interactive visualizations for strategic analysis  
-
----
-
-## Technical Skills Demonstrated
-
-- **Data Analysis & Preprocessing:** Python, Jupyter Notebook, Power Query  
-- **Predictive Modeling:** Azure AutoML, Prophet, ARIMA, LightGBM  
-- **BI & Visualization:** Power BI dashboards, DAX, interactive KPIs  
-- **Time-Series Forecasting:** Revenue, Gross Margin Percent, Estimated Volume  
-- **Project Workflow:** End-to-end from data ingestion → modeling → dashboard visualization  
+- Analyse Apple financial performance over time
+- Track key financial indicators through dynamic visuals
+- Compare historical values with model-generated forecasts
+- Support scenario-style interpretation of business performance
 
 ---
 
-## Responsibilities & Contributions
+## Project assets
 
-- Collected and cleaned **financial datasets (2006–2025)** from Yahoo Finance and SEC filings  
-- Conducted **Exploratory Data Analysis (EDA)** to identify trends, seasonality, and outliers  
-- Developed and evaluated **forecasting models** for multiple financial KPIs  
-- Designed **interactive Power BI dashboards** for real-time monitoring and scenario analysis  
-- Automated data pipeline between Azure ML predictions and Power BI dashboards  
-
----
-
-## Impact & Results
-
-- Provided **actionable insights** from historical trends and predictive forecasts  
-- Enabled **comparison of actual vs. predicted financial performance**, supporting strategic decision-making  
-- Demonstrated **strong analytical and technical skills** in BI, forecasting, and data integration  
-- Enhanced understanding of **financial KPIs** and predictive analytics applications in real-world scenarios  
+| File | Description |
+|---|---|
+| `dashboard.pbix` | Power BI dashboard file |
+| `forecast_script.ipynb` | Python notebook used for forecasting workflow and data preparation |
+| `report.pdf` | Academic report with methodology, modelling, dashboard design, and findings |
 
 ---
 
-## Project Assets
+## Workflow
 
-- `dashboard.pbix` – Interactive BI Dashboard  
-- `forecast_script.ipynb` – Python Notebook for Forecasting  
-- `report.pdf` – Academic report detailing methodology, model evaluation, KPIs, and insights  
+1. **Data collection**  
+   Public financial data from sources such as Yahoo Finance and SEC filings.
+
+2. **Data preparation**  
+   Cleaning, transformation, and structuring of financial metrics for dashboarding and forecasting.
+
+3. **Exploratory analysis**  
+   Identification of historical trends, seasonality, and changes in financial performance.
+
+4. **Forecasting**  
+   Use of Azure AutoML and time-series modelling approaches to forecast selected KPIs.
+
+5. **Dashboard development**  
+   Power BI report with interactive KPIs, visuals, slicers, and actual-vs-forecast comparisons.
+
+---
+
+## Main dashboard focus
+
+- Revenue trend analysis
+- Gross margin percentage
+- Estimated volume indicators
+- Actual vs predicted financial performance
+- Dynamic KPI monitoring
+
+---
+
+## Technologies
+
+`Power BI` · `DAX` · `Azure AutoML` · `Python` · `Jupyter Notebook` · `Forecasting` · `Financial Analytics`
+
+---
+
+## Repository structure
+
+```text
+.
+├── dashboard.pbix
+├── forecast_script.ipynb
+├── report.pdf
+└── README.md
+```
+
+---
+
+## How to use
+
+1. Open `dashboard.pbix` in Power BI Desktop.
+2. Review the visuals and KPI pages.
+3. Open `forecast_script.ipynb` to inspect the forecasting workflow.
+4. Read `report.pdf` for full academic context and methodology.
 
 ---
 
 ## Disclaimer
 
-This project is **strictly academic** and not affiliated with Apple Inc. All data used is public and for educational purposes.
+This project is strictly academic and is not affiliated with Apple Inc. All data used is public and for educational purposes only. Forecasts should not be interpreted as investment advice.
