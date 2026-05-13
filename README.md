@@ -52,18 +52,6 @@ Build an interactive BI dashboard that allows users to:
 
 ---
 
-## Repository structure
-
-```text
-.
-├── dashboard.pbix
-├── forecast_script.ipynb
-├── report.pdf
-└── README.md
-```
-
----
-
 ## How to use
 
 1. Open `dashboard.pbix` in Power BI Desktop.
