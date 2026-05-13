@@ -17,16 +17,6 @@ Build an interactive BI dashboard that allows users to:
 
 ---
 
-## Project assets
-
-| File | Description |
-|---|---|
-| `dashboard.pbix` | Power BI dashboard file |
-| `forecast_script.ipynb` | Python notebook used for forecasting workflow and data preparation |
-| `report.pdf` | Academic report with methodology, modelling, dashboard design, and findings |
-
----
-
 ## Workflow
 
 1. **Data collection**  
